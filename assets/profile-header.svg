@@ -1,0 +1,37 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">David Deng — Research and Product</title>
+  <desc id="desc">Dark technical banner with a mint evidence path and a concise student researcher identity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071019"/>
+      <stop offset="1" stop-color="#0D1B26"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="703" y1="219" x2="1126" y2="84" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5CE1C4" stop-opacity="0.25"/>
+      <stop offset="0.55" stop-color="#5CE1C4"/>
+      <stop offset="1" stop-color="#FFB45B"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#A9BAC4" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect x="56" y="50" width="48" height="48" rx="4" fill="#5CE1C4"/>
+  <text x="80" y="81" text-anchor="middle" fill="#071019" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="800">DD</text>
+  <text x="128" y="68" fill="#5CE1C4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="2.4">RESEARCH / PRODUCT / 2026</text>
+  <text x="56" y="164" fill="#F4F6F2" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">David Deng</text>
+  <text x="58" y="205" fill="#AAB7C2" font-family="Arial, Helvetica, sans-serif" font-size="20">Student researcher · Product developer · Evidence-first builder</text>
+  <text x="58" y="262" fill="#768792" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.4">QUESTION → PROTOTYPE → FAILURE → MEASUREMENT → REVISION</text>
+  <path d="M702 226L774 199L839 214L905 146L973 165L1041 98L1128 78" stroke="url(#signal)" stroke-width="3"/>
+  <path d="M702 245H1135" stroke="#AAB7C2" stroke-opacity="0.18"/>
+  <circle cx="702" cy="226" r="6" fill="#071019" stroke="#5CE1C4" stroke-width="3"/>
+  <circle cx="774" cy="199" r="6" fill="#071019" stroke="#5CE1C4" stroke-width="3"/>
+  <circle cx="839" cy="214" r="6" fill="#071019" stroke="#5CE1C4" stroke-width="3"/>
+  <circle cx="905" cy="146" r="6" fill="#071019" stroke="#5CE1C4" stroke-width="3"/>
+  <circle cx="973" cy="165" r="6" fill="#071019" stroke="#5CE1C4" stroke-width="3"/>
+  <circle cx="1041" cy="98" r="6" fill="#071019" stroke="#FFB45B" stroke-width="3"/>
+  <circle cx="1128" cy="78" r="8" fill="#FFB45B"/>
+  <text x="702" y="272" fill="#71818B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">OBSERVE</text>
+  <text x="1066" y="272" fill="#71818B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">VERIFY</text>
+</svg>
